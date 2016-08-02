@@ -1,0 +1,325 @@
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\bin\Debug\Portakal.exe.config
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\bin\Debug\Portakal.exe
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\bin\Debug\Portakal.pdb
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\obj\Debug\Portakal.exe
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\obj\Debug\Portakal.pdb
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+c:\users\hp_user\documents\visual studio 2012\Projects\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\bin\Debug\Portakal.exe.config
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.exe
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.pdb
+C:\Users\HP_USER\Desktop\Portakal\Portakal\bin\Debug\Portakal.exe
+C:\Users\HP_USER\Desktop\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\bin\Debug\Portakal.exe.config
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.exe
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.pdb
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\bin\Debug\Portakal.exe
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\HP_USER\Desktop\AOC,\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+C:\Users\student\Desktop\Portakal\Portakal\bin\Debug\Portakal.exe.config
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.exe
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.pdb
+C:\Users\student\Desktop\Portakal\Portakal\bin\Debug\Portakal.exe
+C:\Users\student\Desktop\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+I:\aaaaaaaaaaa\Portakal\Portakal\bin\Debug\Portakal.exe.config
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.exe
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.pdb
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Araclar.resources
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+I:\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+I:\aaaaaaaaaaa\Portakal\Portakal\bin\Debug\Portakal.exe
+I:\aaaaaaaaaaa\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\bin\Debug\Portakal.exe.config
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.exe
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.pdb
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\bin\Debug\Portakal.exe
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Araclar.resources
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+C:\Users\Uğur Gür\Desktop\aaaaaaaaaaa\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\bin\Debug\Portakal.exe.config
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.exe
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.pdb
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\bin\Debug\Portakal.exe
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.Araclar.resources
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\Uğur Gür\Desktop\Proje\Portakal\Portakal\obj\Debug\Portakal.AracModel.resources
+D:\Proje\Portakal\Portakal\bin\Debug\Portakal.exe.config
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.exe
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.pdb
+D:\Proje\Portakal\Portakal\bin\Debug\Portakal.exe
+D:\Proje\Portakal\Portakal\bin\Debug\Portakal.pdb
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.Araclar.resources
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.AracModel.resources
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+D:\Proje\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.AracModel.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Havayollari.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.Araclar.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.AracModel.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.Havayollari.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.UcakModelleri.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.Havalimanlari.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.SehirSorgulama.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.Ucaklar.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.HavayoluSorgulama.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.ModelSorgulama.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.Ucuslar.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.UcakSorgulama.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.KalkisYeriSorgulama.resources
+C:\Users\HP_USER\Desktop\Portakal\Portakal\obj\Debug\Portakal.InisYeriSorgulama.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\bin\Debug\Portakal.exe.config
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.exe
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.pdb
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.AracModel.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.FirmaEkle.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Havalimanlari.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Havayollari.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.HavayoluSorgulama.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.InisYeriSorgulama.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.KalkisYeriSorgulama.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.ModelSorgulama.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Resource.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.SehirSorgulama.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Ucaklar.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.UcakModelleri.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.UcakSorgulama.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Ucuslar.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.AracEkle.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.AraclariGoster.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\obj\Debug\Portakal.Sozlesme.resources
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\bin\Debug\Portakal.exe
+C:\Users\Uğur Gür\Desktop\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.AracEkle.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.AraclariGoster.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.FirmaEkle.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Havalimanlari.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.HavayoluSorgulama.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.InisYeriSorgulama.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.KalkisYeriSorgulama.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.ModelSorgulama.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Resource.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.SehirSorgulama.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Sozlesme.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Ucaklar.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.UcakModelleri.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.UcakSorgulama.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.Ucuslar.resources
+C:\Users\student\Desktop\Portakal\Portakal\obj\Debug\Portakal.UcusSorgulama.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\bin\Debug\Portakal.exe.config
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.exe
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.pdb
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracEkle.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AraclariGoster.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracModel.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.FirmaEkle.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Havalimanlari.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Havayollari.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.HavayoluSorgulama.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.InisYeriSorgulama.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.KalkisYeriSorgulama.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.ModelSorgulama.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.SehirSorgulama.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Sozlesme.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ucaklar.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcakModelleri.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcakSorgulama.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ucuslar.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcusSorgulama.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Resource.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\bin\Debug\Portakal.exe
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcusSorgulamaDonus.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.BiletSatisHareketleri.resources
+C:\Users\HP_USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.SatisSorgulama.resources
+D:\Son hali\Portakal\Portakal\bin\Debug\Portakal.exe.config
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.exe
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.pdb
+D:\Son hali\Portakal\Portakal\bin\Debug\Portakal.exe
+D:\Son hali\Portakal\Portakal\bin\Debug\Portakal.pdb
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracEkle.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.AraclariGoster.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracModel.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.BiletSatisHareketleri.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.FirmaEkle.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Havalimanlari.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Havayollari.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.HavayoluSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.InisYeriSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.KalkisYeriSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.ModelSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Resource.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.SatisSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.SehirSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Sozlesme.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ucaklar.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcakModelleri.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcakSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ucuslar.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcusSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcusSorgulamaDonus.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\bin\Debug\Portakal.exe.config
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.exe
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.pdb
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\bin\Debug\Portakal.exe
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracEkle.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AraclariGoster.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracModel.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.BiletSatisHareketleri.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.FirmaEkle.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Havalimanlari.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Havayollari.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.HavayoluSorgulama.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.InisYeriSorgulama.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.KalkisYeriSorgulama.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.ModelSorgulama.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Resource.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.SatisSorgulama.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.SehirSorgulama.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Sozlesme.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ucaklar.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcakModelleri.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcakSorgulama.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ucuslar.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcusSorgulama.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcusSorgulamaDonus.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\Uğur\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.KiralamaSatisSorgulama.resources
+D:\Son hali\Portakal\Portakal\obj\Debug\Portakal.KiralamaSatisSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\bin\Debug\Portakal.exe.config
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.exe
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\bin\Debug\Portakal.exe
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\bin\Debug\Portakal.pdb
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AcilisEkrani.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Anasayfa.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracEkle.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AraclariGoster.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracMarka.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.AracModel.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.BiletSatisHareketleri.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.FirmaEkle.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Havalimanlari.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Havayollari.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.HavayoluSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.InisYeriSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.KalkisYeriSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.KiralamaSatisSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.ModelSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.OdaTipiEkle.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.OtelEkle.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Oteller.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Properties.Resources.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Resource.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Rezervasyon.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.RezervasyonSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.SatisSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Sehirler.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.SehirSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Sozlesme.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ucaklar.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcakModelleri.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcakSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ucuslar.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcusSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UcusSorgulamaDonus.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.Ulkeler.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.UlkeSorgulama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.pdb
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.otelSatisRaporlama.resources
+C:\Users\USER\Desktop\Son hali\Portakal\Portakal\obj\Debug\Portakal.otelDetayliSatisRaporlari.resources

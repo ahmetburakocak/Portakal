@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 11.875" name="DataClasses1">
+  <DataContextMoniker Name="/AirDataContext" />
+  <nestedChildShapes>
+    <classShape Id="493c15b6-42fc-4e6a-9181-cb11343700aa" absoluteBounds="2.875, 2.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/AirDataContext/Havalimanlari" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da157fd0-5f20-42d3-8c6c-814bc840ce2c" absoluteBounds="2.89, 3.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bc8407e2-0ad1-47d8-ba95-3fb738b34afa" absoluteBounds="3.75, 0.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/AirDataContext/Havayollari" />
+      <nestedChildShapes>
+        <elementListCompartment Id="06562eac-a52a-4894-b9eb-c2e98421cd4f" absoluteBounds="3.765, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eca59fb3-c72e-4057-8953-eb7d18f71cd6" absoluteBounds="5.375, 2.875, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/AirDataContext/Musteriler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9629a09d-8509-420d-8d88-e450de21df77" absoluteBounds="5.3900000000000006, 3.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3a761b42-15c7-4643-846f-c7d8ed7ce272" absoluteBounds="3.5, 6, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/AirDataContext/Sehirler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b0859d8-eadd-428a-8db6-5ebce4fa4f93" absoluteBounds="3.515, 6.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.1875 : 6); (4.1875 : 4.5881982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirDataContext/Sehirler/Sehirler_Havalimanlari" />
+      <nodes>
+        <classShapeMoniker Id="3a761b42-15c7-4643-846f-c7d8ed7ce272" />
+        <classShapeMoniker Id="493c15b6-42fc-4e6a-9181-cb11343700aa" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.88544840494792); (5.85416691666667 : 6.88544840494792 : JumpStart); (6.02083358333333 : 6.88544840494792 : JumpEnd); (6.4375005 : 6.88544840494792); (6.4375005 : 5.60740397135417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirDataContext/Sehirler/Sehirler_Musteriler" />
+      <nodes>
+        <classShapeMoniker Id="3a761b42-15c7-4643-846f-c7d8ed7ce272" />
+        <classShapeMoniker Id="eca59fb3-c72e-4057-8953-eb7d18f71cd6" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="5be6f499-1861-43a9-86d8-ee8045d787f7" absoluteBounds="1, 0.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/AirDataContext/Ucaklar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d79d3609-d70c-400b-a8bb-e66de1ce7037" absoluteBounds="1.0150000000000001, 1.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.75 : 1.60659912109375); (3 : 1.60659912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirDataContext/Havayollari/Havayollari_Ucaklar" />
+      <nodes>
+        <classShapeMoniker Id="bc8407e2-0ad1-47d8-ba95-3fb738b34afa" />
+        <classShapeMoniker Id="5be6f499-1861-43a9-86d8-ee8045d787f7" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="5ee97956-5318-4137-9986-16a244fb41b5" absoluteBounds="0.625, 5, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/AirDataContext/Ucuslar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dc7dcf78-663c-40c4-8849-cdada150925e" absoluteBounds="0.64000000000000012, 5.46, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.875 : 4.5881982421875); (2.625 : 5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/AirDataContext/Havalimanlari/Havalimanlari_Ucuslar" />
+      <nodes>
+        <classShapeMoniker Id="493c15b6-42fc-4e6a-9181-cb11343700aa" />
+        <classShapeMoniker Id="5ee97956-5318-4137-9986-16a244fb41b5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 4.5881982421875); (2.625 : 5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/AirDataContext/Havalimanlari/Havalimanlari_Ucuslar1" />
+      <nodes>
+        <classShapeMoniker Id="493c15b6-42fc-4e6a-9181-cb11343700aa" />
+        <classShapeMoniker Id="5ee97956-5318-4137-9986-16a244fb41b5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 4.5881982421875); (2.625 : 5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/AirDataContext/Havalimanlari/Havalimanlari_Ucuslar2" />
+      <nodes>
+        <classShapeMoniker Id="493c15b6-42fc-4e6a-9181-cb11343700aa" />
+        <classShapeMoniker Id="5ee97956-5318-4137-9986-16a244fb41b5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.59375 : 2.5881982421875); (2.59375 : 5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirDataContext/Ucaklar/Ucaklar_Ucuslar" />
+      <nodes>
+        <classShapeMoniker Id="5be6f499-1861-43a9-86d8-ee8045d787f7" />
+        <classShapeMoniker Id="5ee97956-5318-4137-9986-16a244fb41b5" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="e790da6e-0609-45c4-9104-f01dd975bb93" absoluteBounds="0.5, 2.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/AirDataContext/Ulkeler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c9ae17a9-6ef4-4a30-ab5f-dcf684b3c9f8" absoluteBounds="0.515, 3.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(0.71875 : 2.875); (0.71875 : 0.53125); (3.75 : 0.53125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirDataContext/Ulkeler/Ulkeler_Havayollari" />
+      <nodes>
+        <classShapeMoniker Id="e790da6e-0609-45c4-9104-f01dd975bb93" />
+        <classShapeMoniker Id="bc8407e2-0ad1-47d8-ba95-3fb738b34afa" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.5 : 4.64589680989583); (1.5 : 4.9375); (2.6875 : 4.9375); (2.6875 : 6.88544840494792); (3.5 : 6.88544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirDataContext/Ulkeler/Ulkeler_Sehirler" />
+      <nodes>
+        <classShapeMoniker Id="e790da6e-0609-45c4-9104-f01dd975bb93" />
+        <classShapeMoniker Id="3a761b42-15c7-4643-846f-c7d8ed7ce272" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1899e373-5cc7-4eb0-9e68-3c1d5a0d566c" absoluteBounds="6, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/AirDataContext/Modeller" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c6bcdedf-625d-4a11-a351-94ba2a8e58c9" absoluteBounds="6.015, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 1.82774983723958); (5.8125 : 1.82774983723958); (5.8125 : 0.4375); (2 : 0.4375); (2 : 0.625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirDataContext/Modeller/Modeller_Ucaklar" />
+      <nodes>
+        <classShapeMoniker Id="1899e373-5cc7-4eb0-9e68-3c1d5a0d566c" />
+        <classShapeMoniker Id="5be6f499-1861-43a9-86d8-ee8045d787f7" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="a72f271e-c73f-4069-bab3-e3152389ea0d" absoluteBounds="4.875, 8.125, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/AirDataContext/SatisHareketleri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="31c60a06-4b9e-422b-aee8-2774e12ed62b" absoluteBounds="4.89, 8.585, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.93750025 : 5.60740397135417); (5.93750025 : 8.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirDataContext/Musteriler/Musteriler_SatisHareketleri" />
+      <nodes>
+        <classShapeMoniker Id="eca59fb3-c72e-4057-8953-eb7d18f71cd6" />
+        <classShapeMoniker Id="a72f271e-c73f-4069-bab3-e3152389ea0d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.625 : 8.50560628255208); (4.875 : 8.50560628255208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirDataContext/Ucuslar/Ucuslar_SatisHareketleri" />
+      <nodes>
+        <classShapeMoniker Id="5ee97956-5318-4137-9986-16a244fb41b5" />
+        <classShapeMoniker Id="a72f271e-c73f-4069-bab3-e3152389ea0d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
